@@ -15,7 +15,7 @@
     "build:server": "cross-env NODE_ENV=production webpack --config config/webpack.server.config.js --progress --hide-modules"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chokidar": "^2.0.4",
     "cross-env": "^5.2.0",
     "html-minifier": "^3.5.21",
